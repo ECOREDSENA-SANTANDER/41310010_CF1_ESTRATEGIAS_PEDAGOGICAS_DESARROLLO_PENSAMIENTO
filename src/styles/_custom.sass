@@ -3,17 +3,72 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 40%
-    right: 50%
+    right: 22%
   &-2
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 78%
+    right: 81%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 77%
+    right: 24%  
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem        
+
+.bgc-1
+  background-image: url("../assets/curso/temas/t1/bg1.png")
+  background-position: center top
+  background-size: 100% 94%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+    background-size: cover
+
+.tit-tercer2
+  position: relative  
+  width: fit-content
+  &:after
+    content: ''
+    display: block
+    position: absolute
+    width: 100%
+    height: 65%
+    border: 3px solid #69CCD1
+    border-radius: 50px
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      height: 100%
+  img 
+    z-index: 3  
+    position: relative
+  h3   
+    z-index: 3  
+    position: relative
+
+.cajon-img1 img
+  width: inherit
+  height: 276px
+  object-fit: cover
+  margin: 0 auto
+
+.bloque-texto-g img
+  width: initial
+  height: 90%
+  margin: 0 auto
+  padding-top: 30px
