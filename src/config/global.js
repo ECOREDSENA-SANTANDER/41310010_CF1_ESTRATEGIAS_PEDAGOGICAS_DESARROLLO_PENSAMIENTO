@@ -36,13 +36,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Enfoque educativo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Modelo pedagógico',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Pedagogía',
+            hash: 't_1_2',
           },
         ],
       },
@@ -50,20 +55,71 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Teoría de las inteligencias múltiples',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Las Inteligencias Múltiples',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Identificación de Inteligencias Múltiples',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Discurso Pedagógico',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Tipos de reglas en el discurso pedagógico',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Pasos para elaborar un discurso pedagógico',
+            hash: 't_3_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'La cognición y el aprendizaje',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Modelos de aprendizaje',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Estilos de aprendizaje',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Cognición en la Educación',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Estrategias cognitivas',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Programación neurolingüística en la educación',
+            hash: 't_4_5',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -113,32 +169,143 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '4. La cognición y el aprendizaje',
+      referencia:
+        'Aprendizaje basado en inteligencias multiples de Howard Gardner',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=DeSTRivv3yA',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '4. La cognición y el aprendizaje',
+      referencia:
+        'Emilio Valcárcel. (2020, 24 diciembre). Teoría de las inteligencias múltiples de Gardner.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=F9YuLBivzcQ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Actitudes',
+      significado:
+        'Disposición o tendencia de una oersona hacia algo, que influye en su comportamiento.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Adquisición',
+      significado:
+        'Acto de obtener o adquirir algo, como conocimientos o habilidades.',
+    },
+    {
+      termino: 'Aprendizaje',
+      significado:
+        'Proceso de adquirir conocimientos, habilidades, valores y actitudes a través de la experiencia, la enseñanza y la práctica.',
+    },
+    {
+      termino: 'Cognición',
+      significado:
+        'Actividad mental relacionada con el conocimiento, el entendimiento y la toma de decisiones.',
+    },
+    {
+      termino: 'Cognitivo',
+      significado:
+        'Relacionado con los procesos mentales de conocimiento, como el pensamiento, la memoria y la percepción.',
+    },
+    {
+      termino: 'Conocimientos',
+      significado:
+        'Información, hechos o principios adquiridos a través de la educación o la experiencia',
+    },
+    {
+      termino: 'Desarrollo',
+      significado:
+        'Proceso de crecimiento o progreso en habilidades, conocimientos y competencias.',
+    },
+    {
+      termino: 'Enseñanza',
+      significado:
+        'Actividad de transmitir conocimientos, habilidades y valores a otras personas.',
+    },
+    {
+      termino: 'Experiencia',
+      significado:
+        'Conjunto de conocimientos o habilidades adquiridos por la práctica o vivencias a lo largo del tiempo.',
+    },
+    {
+      termino: 'Habilidades',
+      significado:
+        'Capacidades o destrezas para realizar tareas específicas con éxito.',
+    },
+    {
+      termino: 'Interacción',
+      significado:
+        'Acción recíproca entre dos o más personas que influye en el comportamiento y el aprendizaje.',
+    },
+    {
+      termino: 'Memorización',
+      significado: 'Capacidad de recordar y retener información.',
+    },
+    {
+      termino: 'Proceso',
+      significado:
+        'Serie de acciones o pasos sistemáticos para lograr un objetivo particular, como el aprendizaje.',
+    },
+    {
+      termino: 'Social',
+      significado:
+        'Relacionado con las interacciones entre individuos y cómo estas influyen en su desarrollo.',
+    },
+    {
+      termino: 'Valores',
+      significado:
+        'Creencias y principios que guían el comportamiento y las decisiones de una persona.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Psicoactiva. (2018, 11 marzo). El modelo de inteligencias múltiples de Howard Gardner. YouTube.',
+      link: 'https://www.youtube.com/watch?v=N7cbzje3Rb4',
+    },
+    {
+      referencia:
+        'Gardner, H., & Asensio, M. T. M. N. M. (1998). Inteligencias múltiples. Barcelona: Paidós',
       link: '',
+    },
+    {
+      referencia:
+        'Armstrong, T., Rivas, M. P., Gardner, H., & Brizuela, B. (1999). Las inteligencias múltiples en el aula. Buenos Aires: Manantial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Campbell, L., Campbell, B., & Dickenson, D. (2000). Inteligencias múltiples. Argentina: troquel.',
+      link: '',
+    },
+    {
+      referencia:
+        'De Castillo, C. R. (2002). Reflexión del docente y pedagogía crítica. Laurus, 8(14), 92-104.',
+      link: '',
+    },
+    {
+      referencia:
+        'Aguirre, M., Camacho, T., Flórez, T., Gaibao, D., Murcia, G., & Pasive, Y. (2012). Estrategias pedagógicas en el ámbito educativo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Blogger. (2019, marzo 6). Estilos de aprendizaje. MODELO VAK. En el artículo se menciona a Neil Fleming.',
+      link:
+        'https://educa5team.blogspot.com/2019/03/estilos-de-aprendizaje.html',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (2007). Aprendizajes para mejorar: Guía para la gestión de buenas prácticas (Guía 28).',
+      link:
+        'http://www.mineducacion.gov.co/1621/articles-124660_archivo_pdf.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (s.f.). Normograma: Ley 115 de 1994, Ley 1064 de 2006, Ley 1295 de 2009, Ley 1324 de 2009, Decreto 1860 de 1994 y Decreto 1075 de 2015.',
+      link: 'https://www.mineducacion.gov.co/portal/Normatividad/',
     },
   ],
   creditos: [
