@@ -29,6 +29,8 @@
       position: relative
       margin-right: 7px
       font-size: 1.4rem        
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
 
 .bgc-1
   background-image: url("../assets/curso/temas/t1/bg1.png")
@@ -37,8 +39,11 @@
   background-repeat: no-repeat
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
-    background-size: cover
+    background-size: cover 
 .bgc-2
   background-image: url("../assets/curso/temas/t1/bg2.png")
   background-position: center
@@ -46,17 +51,79 @@
   background-repeat: no-repeat
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
-    background-size: cover
+    background-size: cover 
 .bgc-3
   background-color: #F6F6F6
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
-    margin-inline: -1.4rem     
+    margin-inline: -3rem  
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+.bgc-4
+  background-image: url("../assets/curso/temas/t2/bg1.png")
+  background-position: center bottom
+  background-size: 100% 75%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover  
+.bgc-5
+  background-image: url("../assets/curso/temas/t4/bg2.png")
+  background-position: center bottom
+  background-size: 100% 75%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover  
+.bgc-6
+  background-image: url("../assets/curso/temas/t3/bg2.png")
+  background-position: center bottom
+  background-size: 100% 73%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover   
+.bgi-1
+  background-image: url("../assets/curso/temas/t4/bg1.png")
+  background-position: center
+  background-size: 100%
+  background-repeat: no-repeat
+  @media screen and (max-width: 992px)
+    background-size: cover 
+.bgi-2
+  background-image: url("../assets/curso/temas/t3/bg1.png")
+  background-position: center
+  background-size: 100%
+  background-repeat: no-repeat
+  @media screen and (max-width: 992px)
+    background-size: cover
 .bg-1
   background-color: #F0FAFB
 .bg-2
   background-color: #FFF4CC !important
+.bg-3
+  background-color: #FFE178
+.bg-4
+  background-color: #F6F6F6
+.bg-5
+  background-color: #FFF    
+
 
 .tit-tercer2
   position: relative  
@@ -76,14 +143,16 @@
     z-index: 3  
     position: relative
   h3   
-    z-index: 3  
+    z-index: 1
     position: relative
 .text-dest
   color: #EA3A70
+.lista-ol--cuadro__vineta span
+  color: $color-sistema-texto
+  font-weight: bold
 
 .lista-ul--color.fa-ul.color-adicional-1 i 
   color: #FFC03C
-
 
 .cajon-img1 img
   width: inherit
@@ -115,3 +184,28 @@
     background-color: #EA3A70
     i
       color: #FFF
+.acordion__accion__btn--a 
+  background-color: #EA3A70
+  i
+    color: #FFF !important
+.tema3 .acordion__activo
+  background-color: #E8F8F8
+
+.img-infografica.color-acento-botones .img-infografica__item__numero
+  color: #FFF !important
+.img-infografica__card--selected, .img-infografica-b__card--selected 
+  z-index: 2
+
+.bgi-1 
+  .slyder-a__bullets  
+    display: none
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: #EA3A70
+    border-color: #EA3A70
+    opacity: 1
+
+.pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #EA3A70
+  border-color: #EA3A70
+  i 
+    color: #FFF !important

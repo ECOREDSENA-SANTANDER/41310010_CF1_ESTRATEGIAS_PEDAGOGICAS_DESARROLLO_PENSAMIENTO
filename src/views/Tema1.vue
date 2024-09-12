@@ -49,14 +49,14 @@
         h3.mb-0 Aspectos relevantes de modelo pedagógico
 
     .tarjeta--container.row.mb-5
-      .col-md.tarjeta.color-primario.p-5
+      .col-md.tarjeta.color-primario.p-4.p-lg-5
         .row.align-items-center.mb-4
           .col-3
             img(src='@/assets/curso/temas/t1/tarj1-ico1.svg', alt='')
           .col-9
             h4.mb-0 Relación y propósito
         p.mb-0 Encapsula la visión educativa de los estudiantes, describiendo la relación y el propósito inherente entre la enseñanza y el aprendizaje. En este marco, la enseñanza fomenta una interacción recíproca entre el aula, la escuela, la sociedad, y los vínculos de los individuos con el conocimiento y la cultura.
-      .col-md.tarjeta.color-acento-contenido.p-5
+      .col-md.tarjeta.color-acento-contenido.p-4.p-lg-5
         .row.align-items-center.mb-4
           .col-3
             img(src='@/assets/curso/temas/t1/tarj1-ico2.svg', alt='')
@@ -98,9 +98,9 @@
           p “En este modelo, el desarrollo natural del niño se convierte en la meta y a la vez, en el método de la educación. Se plantea que lo más importante para el desarrollo del niño es su interioridad, que se convierte en el eje central y el método de la educación” (Gómez y Polanía, 2008).
       .row(titulo="Modelo conductista")
         .col-md-3.mb-4.mb-md-0
-          img.w-75.m-auto(src='@/assets/template/img-placeholder.svg', alt='')
+          img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img7.png', alt='')
         .col-md-9
-          p 
+          p Según Gómez y Polanía (2008), este modelo se caracteriza por la fijación y control de los objetivos de aprendizaje, y por la transmisión segmentada de saberes técnicos, con el propósito de modelar la conducta del estudiante. El proceso de aprendizaje se basa en el “adiestramiento experimental mediante refuerzos”. En este contexto, el maestro actúa como mediador y el estudiante como receptor de la programación, acumulando aprendizajes específicos.
       .row(titulo="Modelo desarrollista")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img3.png', alt='')
@@ -154,7 +154,7 @@
     p.mb-4 Según Gómez (2001), “la pedagogía es una actividad humana sistemática que guía las acciones educativas y formativas, en la cual se establecen los principios, métodos, prácticas, formas de pensamiento y modelos que constituyen sus elementos fundamentales.”
 
     .row.justify-content-center.align-items-end.mb-4
-      .col-lg-3.col-md-6.mb-3.mb-lg-0(data-aos='fade-right')
+      .col-lg-3.col-md-6.col-7.mb-3.mb-lg-0(data-aos='fade-right')
         img(src='@/assets/curso/temas/t1/img3.png', alt='')
       .col-lg-9(data-aos='fade-left')
         p La pedagogía, en su sentido más amplio, es una disciplina que abarca el estudio de los métodos y principios que guían el proceso educativo en sus diversas formas, más allá de la simple transmisión de conocimientos, la pedagogía tiene como finalidad principal estructurar y orientar las acciones educativas y formativas de manera sistemática, de tal forma que se optimicen los procesos de enseñanza-aprendizaje.
@@ -172,9 +172,9 @@
         .row.align-items-center.mb-4
           .col-auto
             img(src='@/assets/curso/temas/t1/tarj1-ico1.svg', alt='')
-          .col-10
+          .col-lg-10.col-md-9.col-8
             p.mb-0 Esto fomenta un aprendizaje más inclusivo y personalizado, permitiendo que cada alumno desarrolle su potencial a través de métodos que se alineen con sus fortalezas cognitivas.
-      .col-lg-4.col-md-6.mb-3.mb-lg-0(data-aos='fade-left')
+      .col-lg-4.col-md-6.mb-3.mb-lg-0.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t1/img4.png', alt='')
 
 
