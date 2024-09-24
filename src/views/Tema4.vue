@@ -25,44 +25,46 @@
               h5 Figura 3.
               span Enseñanza activa
             figure
-              img(src='@/assets/curso/temas/t4/fig3.png', alt='El esquema representa el concepto de “aprendizaje” dentro de la enseñanza activa, destacando dos aspectos principales. Por un lado, se resalta el desarrollo de conocimientos, habilidades, valores y actitudes mediante la enseñanza y la experiencia. Por otro, se menciona que el aprendizaje es un mecanismo clave para el desarrollo cognitivo y social, lo que permite entender mejor los procesos involucrados en el crecimiento personal y académico.')  
+              img(src='@/assets/curso/temas/t4/figu3.png', alt='El esquema representa el concepto de “aprendizaje” dentro de la enseñanza activa, destacando dos aspectos principales. Por un lado, se resalta el desarrollo de conocimientos, habilidades, valores y actitudes mediante la enseñanza y la experiencia. Por otro, se menciona que el aprendizaje es un mecanismo clave para el desarrollo cognitivo y social, lo que permite entender mejor los procesos involucrados en el crecimiento personal y académico.')  
 
 
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.1 Modelos de aprendizaje
 
-    p.mb-4 Los modelos de aprendizaje son enfoques teóricos que describen cómo las personas adquieren, procesan y retienen conocimientos y habilidades. Estos modelos guían la enseñanza y pueden variar según las teorías cognitivas, conductuales, constructivistas, entre otras, adaptándose a diferentes estilos y necesidades educativas.
+    p.mb-5 Los modelos de aprendizaje son enfoques teóricos que describen cómo las personas adquieren, procesan y retienen conocimientos y habilidades. Estos modelos guían la enseñanza y pueden variar según las teorías cognitivas, conductuales, constructivistas, entre otras, adaptándose a diferentes estilos y necesidades educativas.
 
-    .row.align-items-center.tit-tercer2.mb-3(data-aos='fade-right')
+    .row.align-items-center.tit-tercer2.mb-4(data-aos='fade-right')
       .col-md-auto.col-2
         img(src='@/assets/curso/temas/t1/tit-terc2.svg', alt='')
       .col-md-auto.col-10
         h3.mb-0.pe-4 Principales modelos de aprendizaje
+    
+    p.mb-4 Son muchos los modelos que existen sobre los estilos de aprendizaje, pero los que a continuación se relacionan han tenido mayor relevancia en las ciencias pedagógicas y didácticas del siglo XX:
 
     .row.justify-content-center.mb-5(data-aos='fade-down')
       .col-lg-10
         ImagenInfografica.color-acento-botones(data-aos="fade-down")
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/t4/infografica.svg', alt='')
+                img(src='@/assets/curso/temas/t4/infografica1.svg', alt='')
 
             .tarjeta.bg-3.p-3(x="7.5%" y="57%" numero="+")
               h4.mb-3 Cognitiva
               p Esta teoría parte de los enfoques teóricos provenientes de las ciencias cognitivas, por lo que fijaba su interés en procesos cognitivos complejos como el pensamiento, el lenguaje, la formación de conceptos, la solución de problemas y el procesamiento de la información. De allí, que el énfasis de esta teoría es localizado en el estimular el procesamiento mental.
               p.mb-0 El aprendizaje en los estudiantes parte de lo que ellos saben y se busca reconocer cómo lo adquieren. A diferencia del conductismo, el estudiante es un participante activo en el aula. Por ello, los pensamientos, costumbres, creencias, actitudes y valores tienden a influir en el proceso de aprendizaje.
             .tarjeta.bg-3.p-3(x="24%" y="91%" numero="+")
-              h4.mb-3 Humanista
-              p.mb-0 Parte del precepto de que los individuos son únicos, con patrones de percepción individuales y estilos de vida personalizados. Por ello, se centra en el desarrollo de la personalidad basándose en la individualidad de cada estudiante. Teniendo en cuenta lo anterior, esta teoría reconoce que el aprendizaje original provoca cambios en el comportamiento a partir del contacto con la realidad.
-            .tarjeta.bg-3.p-3(x="50%" y="104%" numero="+")
               h4.mb-3 Conductista
               p.mb-0 Se enfoca en repetir el patrón de una conducta, y de tal manera, terminan siendo ejecutados de manera mecánica. El conductismo estudia el comportamiento que se puede observar y considera que todo estímulo se complementa con una respuesta.
+            .tarjeta.bg-3.p-3(x="50%" y="104%" numero="+")
+              h4.mb-3 Humanista
+              p.mb-0 Parte del precepto de que los individuos son únicos, con patrones de percepción individuales y estilos de vida personalizados. Por ello, se centra en el desarrollo de la personalidad basándose en la individualidad de cada estudiante. Teniendo en cuenta lo anterior, esta teoría reconoce que el aprendizaje original provoca cambios en el comportamiento a partir del contacto con la realidad.              
             .tarjeta.bg-3.p-3(x="77%" y="91%" numero="+")
               h4.mb-3 Piagetiana
               p.mb-0 El teórico Jean Piaget propone una teoría del aprendizaje interaccionista, la cual parte del crecimiento intelectual del sujeto. En esta teoría, la experiencia activa de él es la fuente de desarrollo intelectual, porque toda actividad humana se filtra en el pensamiento. Para Piaget el pensamiento y la inteligencia son conceptos recíprocos, porque pensar requiere usar activamente la inteligencia y ésta implica utilizar los instrumentos por los que una persona piensa. Además, rechaza que exista una edad fija para cada estadio, porque se trata más de estructuras del pensamiento que de cronología.
             .tarjeta.bg-3.p-3(x="93%" y="57%" numero="+")
               h4.mb-3 Sociocultural
-              p.mb-0 para esta teoría el aprendizaje es adquirido desde la socialización, ya que se considera que el hombre es una construcción social, más que biológica, porque el desarrollo de cualquier individuo está ligado con su interactuar en el contexto social, histórico y cultural.
+              p.mb-0 Para esta teoría el aprendizaje es adquirido desde la socialización, ya que se considera que el hombre es una construcción social, más que biológica, porque el desarrollo de cualquier individuo está ligado con su interactuar en el contexto social, histórico y cultural.
     
 
     Separador
@@ -151,7 +153,7 @@
         p Es crucial considerar que una reforma educativa requiere que los docentes evalúen de manera específica los logros cognitivos de sus estudiantes. Sin embargo, también es fundamental que los docentes reflexionen sobre sus propias concepciones de cognición, desarrollo cognitivo y la evaluación de estas dimensiones en su práctica profesional. Este autoanálisis les permitirá identificar las mejores prácticas pedagógicas para fomentar el desarrollo del pensamiento en sus alumnos.
         .cajon.color-primario.bg-2.p-4
           p.mb-0 Capacidades cognitivas como 
-            span.text-dest.fw-bold la atención, la memoria, el lenguaje, las funciones ejecutivas, la percepción y la lectoescritura, 
+            span.fw-bold la atención, la memoria, el lenguaje, las funciones ejecutivas, la percepción y la lectoescritura, 
             | entre otras, pueden ser estimuladas y potenciadas mediante ejercicios y técnicas específicas. Al hacerlo, no solo se mejora la calidad educativa, sino también la calidad de vida en general.
 
 
@@ -212,7 +214,7 @@
         p.mb-0 La Programación Neurolingüística (PNL) se ha convertido en una herramienta valiosa en el ámbito educativo, ya que permite a los docentes mejorar su desempeño en el aula mediante el desarrollo de habilidades y técnicas que optimizan la comunicación interpersonal, pues al ampliar la perspectiva del docente, la PNL facilita no solo su crecimiento personal, sino también la creación de un entorno de aprendizaje más efectivo y motivador. Esta metodología se centra en comprender cómo las personas perciben el mundo a través de sus propios “mapas de realidad”, es decir, las representaciones internas que construyen a partir de sus experiencias, imágenes mentales, sonidos, sensaciones y recuerdos; al conocer mejor estas percepciones, los educadores pueden adaptar sus enfoques para fomentar un aprendizaje más profundo y significativo.
 
     p Según Pérez (2012), la PNL, basada en los avances científicos sobre el funcionamiento del cerebro, permite descubrir las representaciones cognitivas y emocionales de los individuos, ya que, en el aula, esto se traduce en una mayor apertura hacia la expresión de emociones y acciones relacionadas con ellas, lo que enriquece el proceso educativo. Al incorporar la PNL en el contexto pedagógico, 
-      span.text-dest.fw-bold los docentes pueden ayudar a los estudiantes a gestionar mejor sus emociones y a potenciar su capacidad de aprendizaje, 
+      span.fw-bold los docentes pueden ayudar a los estudiantes a gestionar mejor sus emociones y a potenciar su capacidad de aprendizaje, 
       | creando un espacio donde el desarrollo emocional y cognitivo se entrelacen de manera armónica.
 
 

@@ -60,12 +60,12 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Las Inteligencias Múltiples',
+            titulo: 'Las inteligencias múltiples',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Identificación de Inteligencias Múltiples',
+            titulo: 'Identificación de inteligencias múltiples',
             hash: 't_2_2',
           },
         ],
@@ -73,7 +73,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Discurso Pedagógico',
+        titulo: 'Discurso pedagógico',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -106,7 +106,7 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Cognición en la Educación',
+            titulo: 'Cognición en la educación',
             hash: 't_4_3',
           },
           {
@@ -171,9 +171,9 @@ export default {
     {
       tema: '4. La cognición y el aprendizaje',
       referencia:
-        'Aprendizaje basado en inteligencias multiples de Howard Gardner',
+        'Genius Baby. (2016, 22 octubre). Aprendizaje basado en inteligencias múltiples de Howard Gardner.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=DeSTRivv3yA',
+      link: 'https://www.youtube.com/watch?v=DeSTRiVV3yA',
     },
     {
       tema: '4. La cognición y el aprendizaje',
@@ -212,7 +212,7 @@ export default {
     {
       termino: 'Conocimientos',
       significado:
-        'Información, hechos o principios adquiridos a través de la educación o la experiencia',
+        'Información, hechos o principios adquiridos a través de la educación o la experiencia.',
     },
     {
       termino: 'Desarrollo',
@@ -314,12 +314,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -329,7 +329,7 @@ export default {
       autores: [
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluador instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -339,17 +339,17 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <em>Fullstack</em>',
+          cargo: 'Desarrolladora <em>fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -359,17 +359,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

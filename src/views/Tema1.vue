@@ -162,7 +162,7 @@
           p.mb-0 A través de esta organización consciente y deliberada, busca generar una comprensión profunda del acto educativo, donde la interacción entre educador y educando se fundamenta en principios éticos y metodológicos claros. Estos principios permiten no solo transmitir contenidos, sino también formar individuos críticos, autónomos y capaces de interactuar de manera efectiva en su entorno social.
 
     p.mb-4 Además, la pedagogía se enriquece con una cultura particular, construida a lo largo del tiempo por medio de la experiencia, la reflexión y la investigación sobre las mejores prácticas educativas; esta cultura pedagógica no es homogénea, sino que incluye una diversidad de enfoques y modelos que responden a diferentes contextos y necesidades educativas. 
-      span.text-dest.fw-bold Cada enfoque pedagógico aporta una visión particular de cómo debe desarrollarse el proceso de enseñanza, 
+      span.fw-bold Cada enfoque pedagógico aporta una visión particular de cómo debe desarrollarse el proceso de enseñanza, 
       | lo que contribuye a la profesionalización de los docentes, por tanto, la pedagogía, no solo busca la eficiencia en el acto de enseñar, sino también el desarrollo continuo del docente como un profesional capaz de adaptar y transformar su práctica en función de los desafíos educativos contemporáneos.
 
     .row.justify-content-center.align-items-center.mb-4

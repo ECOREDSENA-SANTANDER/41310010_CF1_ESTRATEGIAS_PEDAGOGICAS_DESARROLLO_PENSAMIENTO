@@ -26,7 +26,7 @@
     .row.align-items-center.mb-4
       .col-lg-11.col-md-10(data-aos='fade-right')
         p El término “inteligencias múltiples” fue acuñado por el psicólogo Howard Gardner en 1983. Su teoría propone la existencia de 
-          span.text-dest.fw-bold ocho inteligencias distintas e independientes, 
+          span.fw-bold ocho inteligencias distintas e independientes, 
           | que pueden interactuar y potenciarse entre sí. Cada una de estas inteligencias se desarrolla según cómo se activen y fortalezcan los hemisferios cerebrales en los seres humanos.
       .col-lg-1.col-md-2.d-none.d-md-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t2/icono1.svg', alt='')
@@ -68,7 +68,7 @@
             
             .tarjeta.bg-3.p-3(x="39.5%" y="88%" numero="+")
               h4.mb-3 Inteligencia kinestésica
-              p.mb-0 Es la habilidad para comunicarse efectivamente mediante el lenguaje corporal, como en el caso de los bailarines de ballet . Esta inteligencia permite al individuo utilizar su cuerpo para realizar actividades o resolver problemas.
+              p.mb-0 Es la habilidad para comunicarse efectivamente mediante el lenguaje corporal, como en el caso de los bailarines de #[em ballet]. Esta inteligencia permite al individuo utilizar su cuerpo para realizar actividades o resolver problemas.
             
             .tarjeta.bg-3.p-3(x="63%" y="88%" numero="+")
               h4.mb-3 Inteligencia espacial
