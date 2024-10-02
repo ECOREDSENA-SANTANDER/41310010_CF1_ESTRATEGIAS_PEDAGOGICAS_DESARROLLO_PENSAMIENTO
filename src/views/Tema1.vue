@@ -64,7 +64,7 @@
             h4.mb-0 Coherencia y estructura
         .mb-0p Se integra con las acciones educativas, organizando la coherencia entre los participantes y las representaciones que los inspiran. Así, actúa como un catalizador en el proceso de enseñanza-aprendizaje, sirviendo como una herramienta clave para estructurar la búsqueda de nuevos conocimientos dentro del ámbito pedagógico.
       
-    .row.bgc-2.align-items-center.py-4.mb-5
+    .row.bgc-2.align-items-center.py-4.mb-4
       .col-lg-12.col-12.px-lg-5.px-4
         
         .row.justify-content-center
@@ -75,11 +75,11 @@
             figure
               img(src='@/assets/curso/temas/t1/fig1.png', alt='La imagen describe un modelo pedagógico centrado en la relación entre varias dimensiones clave. En el centro se ubica el “modelo pedagógico”, rodeado por cuatro áreas principales que lo estructuran: la dimensión pedagógica, enseñar a aprender, la estructura de conocimientos y la coherencia en las acciones. Estos elementos contribuyen exponen los enfoques educativos, poniendo énfasis en la organización del conocimiento y la implementación coherente de las acciones pedagógicas.')  
       
-        .row.align-items-center.tit-tercer2.mb-4(data-aos='fade-right')
-          .col-md-auto.col-2
-            img(src='@/assets/curso/temas/t1/tit-terc2.svg', alt='')
-          .col-md-auto.col-10
-            h3.mb-0.pe-4 Principales modelos pedagógicos
+    .row.align-items-center.tit-tercer2.mb-4(data-aos='fade-right')
+      .col-md-auto.col-2
+        img(src='@/assets/curso/temas/t1/tit-terc2.svg', alt='')
+      .col-md-auto.col-10
+        h3.mb-0.pe-4 Principales modelos pedagógicos
 
     p.mb-4 A lo largo de la historia, se han desarrollado diversos modelos pedagógicos, entre los cuales se destacan los siguientes:
 
@@ -137,14 +137,6 @@
             li
               i.fas.fa-check-circle
               | NEE o barreras de aprendizaje.
-
-    p.mb-4 Continuando la línea de profundización en los conceptos, ahora nos enfocaremos en la pedagogía:
-
-    .row.align-items-center.tit-tercer2(data-aos='fade-right')
-      .col-md-auto.col-2
-        img(src='@/assets/curso/temas/t1/tit-terc2.svg', alt='')
-      .col-md-auto.col-10
-        h3.mb-0.pe-4 Definición de pedagogía
 
 
     Separador

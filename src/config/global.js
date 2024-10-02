@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Técnicas y metodologías educativas',
     descripcionCurso:
-      'El programa se enfoca en la implementación de técnicas y metodologías educativas que fomenten el desarrollo cognitivo y crítico de los aprendices. A través del estudio de diferentes enfoques pedagógicos, se busca capacitar a los educadores en la creación de ambientes de aprendizaje que estimulen la reflexión, el análisis y la resolución de problemas, promoviendo así un pensamiento autónomo con bases sólidas.',
+      'Este material de formaicón se enfoca en la implementación de técnicas y metodologías educativas que fomenten el desarrollo cognitivo y crítico de los aprendices. A través del estudio de diferentes enfoques pedagógicos, se busca capacitar a los educadores en la creación de ambientes de aprendizaje que estimulen la reflexión, el análisis y la resolución de problemas, promoviendo así un pensamiento autónomo con bases sólidas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -187,7 +187,7 @@ export default {
     {
       termino: 'Actitudes',
       significado:
-        'Disposición o tendencia de una oersona hacia algo, que influye en su comportamiento.',
+        'Disposición o tendencia de una persona hacia algo, que influye en su comportamiento.',
     },
     {
       termino: 'Adquisición',
@@ -328,8 +328,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Lilian Clarena Franco López',
+          cargo: 'Experta temática',
+          centro: 'Regional Quindío - Centro Agroindustrial',
+        },
+        {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -344,7 +349,7 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <em>fullstack</em>',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
@@ -363,7 +368,7 @@ export default {
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Diana Lizeth Lozada Díaz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },

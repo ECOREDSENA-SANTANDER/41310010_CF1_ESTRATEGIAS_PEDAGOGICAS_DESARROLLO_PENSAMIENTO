@@ -11,7 +11,7 @@
       .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t1/BG.png')})`}")
         img(src='@/assets/curso/temas/t2/img1.png', alt='')
       .bloque-texto-g__texto.p-4.p-lg-5
-        p La Teoría de las Inteligencias Múltiples, desarrollada por Howard Gardner en 1983, es un modelo que desafía la visión tradicional de la inteligencia como una capacidad única y general. Según Gardner, la inteligencia humana no es monolítica, sino que se manifiesta en diferentes formas o “inteligencias”, cada una con sus propias características y formas de desarrollo.
+        p La teoría de las inteligencias múltiples, desarrollada por Howard Gardner en 1983, es un modelo que desafía la visión tradicional de la inteligencia como una capacidad única y general. Según Gardner, la inteligencia humana no es monolítica, sino que se manifiesta en diferentes formas o “inteligencias”, cada una con sus propias características y formas de desarrollo.
         br
         br
         p.mb-0 El principal objetivo de esta teoría es reconocer y valorar la diversidad de habilidades y talentos en las personas, lo que implica un enfoque educativo que no se centre únicamente en las capacidades lógico-matemáticas o lingüísticas, tradicionalmente privilegiadas en la educación formal; en su lugar, Gardner aboga por un modelo educativo inclusivo que promueva el desarrollo equilibrado de todas las inteligencias, permitiendo a cada individuo desplegar su potencial en los ámbitos donde se destaca.
@@ -78,6 +78,10 @@
               h4.mb-3 Inteligencia naturalista
               p.mb-0 Es la habilidad para interactuar con el entorno y comprender el mundo natural. Esta inteligencia se manifiesta en la capacidad de distinguir, clasificar y utilizar elementos del medio ambiente, ya sea urbano o rural, como objetos, animales, plantas y minerales.
     
+    p Existen indicadores que permiten identificar la inteligencia predominante en un individuo, así como las competencias que requieren fortalecimiento, para ello es necesaria la aplicación de estrategias pedagógicas y didácticas que fomenten el desarrollo de habilidades y destrezas en áreas específicas. 
+    
+    p En la siguiente tabla, se presenta cómo aprenden mejor los estudiantes, en qué se destacan y qué les gusta, según los diferentes tipos de inteligencias múltiples:
+
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')

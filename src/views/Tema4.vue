@@ -124,7 +124,7 @@
 
     Separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.3  Cognición en la Educación
+      h2 4.3  Cognición en la educación
 
     p La cognición, un proceso central en el desarrollo humano, abarca funciones como la atención, percepción, memoria e inteligencia, y se analiza desde diversas disciplinas, incluyendo la psicología, la ingeniería, la lingüística y la educación. Este enfoque interdisciplinar permite entender cómo los individuos conocen, interpretan y toman decisiones en su interacción con el mundo.
 

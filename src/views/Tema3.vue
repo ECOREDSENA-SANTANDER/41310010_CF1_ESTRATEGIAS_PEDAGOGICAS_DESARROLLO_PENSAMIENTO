@@ -53,6 +53,8 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.2  Pasos para elaborar un discurso pedagógico
 
+    p.mb-4 A continuación, se describen los pasos requeridos para el proceso de elaboración de un discurso pedagógico: 
+
     .bgi-2.tarjeta.p-4.p-lg-5.mb-5(data-aos="fade-down")
       .tarjeta.tarjeta--blanca.p-4
         PasosB.color-acento-contenido
@@ -105,7 +107,7 @@
               h5 Figura 2.
               span Estructura del discurso pedagógico
             figure
-              img(src='@/assets/curso/temas/t3/fig2.svg', alt='La imagen presenta un esquema sobre la estructura del discurso pedagógico. Este discurso se divide en dos ramas principales: instrucciones y regulación. Las instrucciones se subdividen en categorías y, a su vez, estas derivan en transmisiones y adquirientes. Por otro lado, el aspecto regulativo se subdivide en la práctica, que conduce hacia una combinación de instrucciones y regulación. Un hombre con actitud pedagógica sostiene un micrófono, acompañando el contenido expuesto.')  
+              img(src='@/assets/curso/temas/t3/fig2.svg', alt='La imagen presenta un esquema sobre la estructura del discurso pedagógico. Este discurso se divide en dos ramas principales: instrucciones y regulación. Las instrucciones se subdividen en categorías y, a su vez, estas derivan en transmisiones y adquirientes. Por otro lado, el aspecto regulativo se subdivide en la práctica, que conduce hacia una combinación de instrucciones y regulación.')  
           .col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t3/img4.png', alt='')
 
