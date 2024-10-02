@@ -25,9 +25,7 @@
      
     .row.align-items-center.mb-4
       .col-lg-11.col-md-10(data-aos='fade-right')
-        p El término “inteligencias múltiples” fue acuñado por el psicólogo Howard Gardner en 1983. Su teoría propone la existencia de 
-          span.fw-bold ocho inteligencias distintas e independientes, 
-          | que pueden interactuar y potenciarse entre sí. Cada una de estas inteligencias se desarrolla según cómo se activen y fortalezcan los hemisferios cerebrales en los seres humanos.
+        p El término “inteligencias múltiples” fue acuñado por el psicólogo Howard Gardner en 1983. Su teoría propone la existencia de ocho inteligencias distintas e independientes, que pueden interactuar y potenciarse entre sí. Cada una de estas inteligencias se desarrolla según cómo se activen y fortalezcan los hemisferios cerebrales en los seres humanos.
       .col-lg-1.col-md-2.d-none.d-md-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t2/icono1.svg', alt='')
     

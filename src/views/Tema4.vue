@@ -152,9 +152,7 @@
       .col-lg-9(data-aos='fade-left')
         p Es crucial considerar que una reforma educativa requiere que los docentes evalúen de manera específica los logros cognitivos de sus estudiantes. Sin embargo, también es fundamental que los docentes reflexionen sobre sus propias concepciones de cognición, desarrollo cognitivo y la evaluación de estas dimensiones en su práctica profesional. Este autoanálisis les permitirá identificar las mejores prácticas pedagógicas para fomentar el desarrollo del pensamiento en sus alumnos.
         .cajon.color-primario.bg-2.p-4
-          p.mb-0 Capacidades cognitivas como 
-            span.fw-bold la atención, la memoria, el lenguaje, las funciones ejecutivas, la percepción y la lectoescritura, 
-            | entre otras, pueden ser estimuladas y potenciadas mediante ejercicios y técnicas específicas. Al hacerlo, no solo se mejora la calidad educativa, sino también la calidad de vida en general.
+          p.mb-0 Capacidades cognitivas como la atención, la memoria, el lenguaje, las funciones ejecutivas, la percepción y la lectoescritura, entre otras, pueden ser estimuladas y potenciadas mediante ejercicios y técnicas específicas. Al hacerlo, no solo se mejora la calidad educativa, sino también la calidad de vida en general.
 
 
     Separador
@@ -213,9 +211,7 @@
       .bloque-texto-g__texto.p-4.p-lg-5
         p.mb-0 La Programación Neurolingüística (PNL) se ha convertido en una herramienta valiosa en el ámbito educativo, ya que permite a los docentes mejorar su desempeño en el aula mediante el desarrollo de habilidades y técnicas que optimizan la comunicación interpersonal, pues al ampliar la perspectiva del docente, la PNL facilita no solo su crecimiento personal, sino también la creación de un entorno de aprendizaje más efectivo y motivador. Esta metodología se centra en comprender cómo las personas perciben el mundo a través de sus propios “mapas de realidad”, es decir, las representaciones internas que construyen a partir de sus experiencias, imágenes mentales, sonidos, sensaciones y recuerdos; al conocer mejor estas percepciones, los educadores pueden adaptar sus enfoques para fomentar un aprendizaje más profundo y significativo.
 
-    p Según Pérez (2012), la PNL, basada en los avances científicos sobre el funcionamiento del cerebro, permite descubrir las representaciones cognitivas y emocionales de los individuos, ya que, en el aula, esto se traduce en una mayor apertura hacia la expresión de emociones y acciones relacionadas con ellas, lo que enriquece el proceso educativo. Al incorporar la PNL en el contexto pedagógico, 
-      span.fw-bold los docentes pueden ayudar a los estudiantes a gestionar mejor sus emociones y a potenciar su capacidad de aprendizaje, 
-      | creando un espacio donde el desarrollo emocional y cognitivo se entrelacen de manera armónica.
+    p Según Pérez (2012), la PNL, basada en los avances científicos sobre el funcionamiento del cerebro, permite descubrir las representaciones cognitivas y emocionales de los individuos, ya que, en el aula, esto se traduce en una mayor apertura hacia la expresión de emociones y acciones relacionadas con ellas, lo que enriquece el proceso educativo. Al incorporar la PNL en el contexto pedagógico, los docentes pueden ayudar a los estudiantes a gestionar mejor sus emociones y a potenciar su capacidad de aprendizaje, creando un espacio donde el desarrollo emocional y cognitivo se entrelacen de manera armónica.
 
 
 </template>
