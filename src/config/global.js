@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Técnicas y metodologías educativas',
     descripcionCurso:
-      'Este material de formaicón se enfoca en la implementación de técnicas y metodologías educativas que fomenten el desarrollo cognitivo y crítico de los aprendices. A través del estudio de diferentes enfoques pedagógicos, se busca capacitar a los educadores en la creación de ambientes de aprendizaje que estimulen la reflexión, el análisis y la resolución de problemas, promoviendo así un pensamiento autónomo con bases sólidas.',
+      'Este material de formación se enfoca en la implementación de técnicas y metodologías educativas que fomenten el desarrollo cognitivo y crítico de los aprendices. A través del estudio de diferentes enfoques pedagógicos, se busca capacitar a los educadores en la creación de ambientes de aprendizaje que estimulen la reflexión, el análisis y la resolución de problemas, promoviendo así un pensamiento autónomo con bases sólidas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
