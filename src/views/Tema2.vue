@@ -78,10 +78,6 @@
               h4.mb-3 Inteligencia naturalista
               p.mb-0 Es la habilidad para interactuar con el entorno y comprender el mundo natural. Esta inteligencia se manifiesta en la capacidad de distinguir, clasificar y utilizar elementos del medio ambiente, ya sea urbano o rural, como objetos, animales, plantas y minerales.
     
-    p Existen indicadores que permiten identificar la inteligencia predominante en un individuo, así como las competencias que requieren fortalecimiento, para ello es necesaria la aplicación de estrategias pedagógicas y didácticas que fomenten el desarrollo de habilidades y destrezas en áreas específicas. 
-    
-    p En la siguiente tabla, se presenta cómo aprenden mejor los estudiantes, en qué se destacan y qué les gusta, según los diferentes tipos de inteligencias múltiples:
-
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
