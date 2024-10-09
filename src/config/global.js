@@ -169,17 +169,17 @@ export default {
   },
   complementario: [
     {
-      tema: '4. La cognición y el aprendizaje',
+      tema: '4. La cognición y el aprendizaje.',
       referencia:
         'Genius Baby. (2016, 22 octubre). Aprendizaje basado en inteligencias múltiples de Howard Gardner.',
-      tipo: 'Video',
+      tipo: 'Video.',
       link: 'https://www.youtube.com/watch?v=DeSTRiVV3yA',
     },
     {
-      tema: '4. La cognición y el aprendizaje',
+      tema: '4. La cognición y el aprendizaje.',
       referencia:
         'Emilio Valcárcel. (2020, 24 diciembre). Teoría de las inteligencias múltiples de Gardner.',
-      tipo: 'Video',
+      tipo: 'Video.',
       link: 'https://www.youtube.com/watch?v=F9YuLBivzcQ',
     },
   ],

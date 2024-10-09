@@ -64,7 +64,7 @@
               p.mb-0 El teórico Jean Piaget propone una teoría del aprendizaje interaccionista, la cual parte del crecimiento intelectual del sujeto. En esta teoría, la experiencia activa de él es la fuente de desarrollo intelectual, porque toda actividad humana se filtra en el pensamiento. Para Piaget el pensamiento y la inteligencia son conceptos recíprocos, porque pensar requiere usar activamente la inteligencia y ésta implica utilizar los instrumentos por los que una persona piensa. Además, rechaza que exista una edad fija para cada estadio, porque se trata más de estructuras del pensamiento que de cronología.
             .tarjeta.bg-3.p-3(x="93%" y="57%" numero="+")
               h4.mb-3 Sociocultural
-              p.mb-0 Para esta teoría el aprendizaje es adquirido desde la socialización, ya que se considera que el hombre es una construcción social, más que biológica, porque el desarrollo de cualquier individuo está ligado con su interactuar en el contexto social, histórico y cultural.
+              p.mb-0 Para esta teoría, el aprendizaje es adquirido desde la socialización, ya que se considera que el hombre es una construcción social, más que biológica, porque el desarrollo de cualquier individuo está ligado con su interactuar en el contexto social, histórico y cultural.
     
 
     Separador
@@ -90,7 +90,7 @@
       .col-lg-9.mb-3.mb-lg-0(data-aos='fade-right')
         p Brown, Favell y Wellman, citados en Díaz y Hernández (1999), afirman que la ejecución de las estrategias de aprendizaje ocurre asociada con otros tipos de recursos y procesos cognitivos de que dispone cualquier aprendiz. De igual manera, diversos autores concuerdan con la necesidad de distinguir entre varios tipos de conocimiento apropiados y utilizados durante el aprendizaje.
         .cajon.color-primario.bg-2.p-4
-          p.mb-0 Los siguientes tipos de conocimiento interactúan en formas intrincadas y complejas cuando el estudiante utiliza las estrategias de aprendizaje. Si bien se ha puesto al descubierto, por medio de estudios realizados en estos temas, la naturaleza de algunas de las relaciones existentes entre dichos tipos de conocimiento es evidente que aún hace falta más información para comprender todo el cuadro de relaciones posibles entre éstos.
+          p.mb-0 Los siguientes tipos de conocimiento interactúan en formas intrincadas y complejas cuando el estudiante utiliza las estrategias de aprendizaje. Si bien se ha puesto al descubierto, por medio de estudios realizados en estos temas, la naturaleza de algunas de las relaciones existentes entre dichos tipos de conocimiento, es evidente que aún hace falta más información para comprender todo el cuadro de relaciones posibles entre éstos.
       .col-lg-3.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t4/img3.png', alt='')
 
@@ -109,7 +109,7 @@
               .col-md-11
                 .tarjeta.tarjeta--blanca.p-5
                   h4 Base de conocimientos
-                  p Se refiere al bagaje de hechos, conceptos y principios que posee el individuo, el cual está organizado en forma de un reticulado jerárquico (constituido por esquemas). Usualmente se denomina conocimientos previos.
+                  p Se refiere al bagaje de hechos, conceptos y principios que posee el individuo, el cual está organizado en forma de un reticulado jerárquico (constituido por esquemas). Usualmente, se denomina conocimientos previos.
             .row.justify-content-center
               .col-md-11
                 .tarjeta.tarjeta--blanca.p-5

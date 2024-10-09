@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se expone la síntesis en un esquema proporciona una visión general de los componentes fundamentales que integran un enfoque educativo. Este enfoque se apoya en diversas áreas clave como las teorías relacionadas con las inteligencias múltiples, el discurso pedagógico, y la cognición y el aprendizaje. Cada uno de estos elementos aborda aspectos esenciales para la educación, desde la identificación de habilidades cognitivas y pedagógicas, hasta el uso de modelos de aprendizaje y estrategias específicas como la programación neurolingüística (PNL).
+    p.mb-5 A continuación, se expone un esquema que proporciona una visión general de los componentes fundamentales que integran un enfoque educativo. Este enfoque se apoya en diversas áreas clave como las teorías relacionadas con las inteligencias múltiples, el discurso pedagógico, y la cognición y el aprendizaje. Cada uno de estos elementos aborda aspectos esenciales para la educación, desde la identificación de habilidades cognitivas y pedagógicas, hasta el uso de modelos de aprendizaje y estrategias específicas como la programación neurolingüística (PNL).
 
     .row.justify-content-center
       .col-lg-12.mb-5
