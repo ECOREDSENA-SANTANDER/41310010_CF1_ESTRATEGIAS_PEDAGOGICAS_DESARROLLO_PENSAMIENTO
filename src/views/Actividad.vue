@@ -18,13 +18,73 @@ export default {
       tema: 'Técnicas y metodologías educativas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Validar el conocimiento adquirido sobre las técnicas y metodologías, cognición, el aprendizaje y la educación.',
+        '<b>Objetivo:</b> Validar el conocimiento adquirido sobre las técnicas y metodologías educativas a utilizar en el proceso.',
       barajarPreguntas: false,
       preguntas: [
         {
           id: 1,
           texto:
-            'Un modelo es una representación de una realidad, que puede manifestarse como una imagen, una práctica o un conjunto de relaciones que facilitan una mejor comprensión de dicha realidad.',
+            'El modelo pedagógico tradicional promueve un rol activo del estudiante.',
+          imagen: require('@/assets/curso/temas/ad/1.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 2,
+          texto:
+            'El modelo romántico se enfoca en la libre expresión y el desarrollo natural del estudiante.',
+          imagen: require('@/assets/curso/temas/ad/2.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 3,
+          texto:
+            'La teoría de las inteligencias múltiples sugiere que todos los estudiantes aprenden de la misma manera.',
+          imagen: require('@/assets/curso/temas/ad/3.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 4,
+          texto:
+            'La pedagogía es una disciplina que solo se enfoca en la transmisión de conocimientos.',
+          imagen: require('@/assets/curso/temas/ad/4.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 5,
+          texto:
+            'El modelo conductista se basa en la idea de que el aprendizaje es el resultado de la acumulación de experiencias reforzadas.',
           imagen: require('@/assets/curso/temas/ad/1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -32,14 +92,14 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento en la definición de modelos pedagógicos.',
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 2,
+          id: 6,
           texto:
-            'La enseñanza no fomenta una interacción recíproca entre el aula, la escuela y la sociedad.',
+            'El modelo constructivista considera que el conocimiento es construido por el estudiante de manera individual, sin influencia social.',
           imagen: require('@/assets/curso/temas/ad/2.png'),
           barajarRespuestas: false,
           opciones: [
@@ -47,14 +107,14 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre el enfoque de la enseñanza.',
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 3,
+          id: 7,
           texto:
-            'El Modelo Romántico, se enfoca en la dimensión interna del estudiante, quien se convierte en el eje central del proceso educativo.',
+            'En el modelo socialista, la educación está orientada hacia el desarrollo individual en el marco de una sociedad socialista.',
           imagen: require('@/assets/curso/temas/ad/3.png'),
           barajarRespuestas: false,
           opciones: [
@@ -62,14 +122,14 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento de los planes que orientan el desarrollo educativo en el país.',
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 4,
+          id: 8,
           texto:
-            'El Modelo Constructivista, cuenta con un enfoque que postula el conocimiento construido por el propio estudiante. La escuela promueve una actividad mental constructiva.',
+            'Las estrategias cognitivas como la organización y la repetición son herramientas útiles para mejorar el aprendizaje.',
           imagen: require('@/assets/curso/temas/ad/4.png'),
           barajarRespuestas: false,
           opciones: [
@@ -77,14 +137,14 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento en la definición de modelos pedagógicos.',
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 5,
+          id: 9,
           texto:
-            'El objetivo de la pedagogía radica en: el aspecto sistemático de la actividad humana que orienta las acciones educativas y formativas.',
+            'El aprendizaje kinestésico es característico de personas que aprenden mejor cuando se encuentran en movimiento o realizando actividades físicas.',
           imagen: require('@/assets/curso/temas/ad/1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -92,22 +152,22 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento en la definición de modelos pedagógicos.',
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 6,
+          id: 10,
           texto:
-            'La Inteligencia Intrapersonal, comprende las habilidades personales y la capacidad para la introspección. Esta inteligencia permite al individuo comprenderse a sí mismo.',
+            'El modelo piagetiano sostiene que el crecimiento intelectual depende de la cronología de los estudiantes.',
           imagen: require('@/assets/curso/temas/ad/2.png'),
           barajarRespuestas: false,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento en la definición de modelos pedagógicos.',
+            '¡Muy bien hecho! Ha captado con claridad los principios clave de las metodologías pedagógicas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
