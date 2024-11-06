@@ -25,7 +25,7 @@
               h5 Figura 3.
               span Enseñanza activa
             figure
-              img(src='@/assets/curso/temas/t4/figu3.png', alt='El esquema representa el concepto de “aprendizaje” dentro de la enseñanza activa, destacando dos aspectos principales. Por un lado, se resalta el desarrollo de conocimientos, habilidades, valores y actitudes mediante la enseñanza y la experiencia. Por otro, se menciona que el aprendizaje es un mecanismo clave para el desarrollo cognitivo y social, lo que permite entender mejor los procesos involucrados en el crecimiento personal y académico.')  
+              img(src='@/assets/curso/temas/t4/figu3.png', alt='El esquema representa el concepto de “aprendizaje” dentro de la enseñanza activa, destacando dos aspectos principales. Por un lado, se resalta el desarrollo de conocimientos, habilidades, valores y actitudes mediante la enseñanza y la experiencia. Por otro lado, se menciona que el aprendizaje es un mecanismo clave para el desarrollo cognitivo y social, lo que permite entender mejor los procesos involucrados en el crecimiento personal y académico.')  
 
 
     Separador

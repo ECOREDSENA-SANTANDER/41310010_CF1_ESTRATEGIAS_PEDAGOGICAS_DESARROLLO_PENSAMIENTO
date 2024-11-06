@@ -36,13 +36,13 @@
       .col-lg-8.mb-3.mb-lg-0(data-aos='fade-right')
         p Según la teoría de Basil Bernstein, citada por Rosales (1998), existen tres tipos de reglas que rigen el discurso pedagógico:
         AcordionA.tema3.mb-5(tipo="a" clase-tarjeta="tarjeta color-acento-contenido")
-          .row.justify-content-center(titulo="Reglas de distribución")
+          .row.justify-content-center(titulo="Reglas de distribución.")
             .col-lg-11
               p Estas reglas codifican el poder a través del principio de clasificación. Incluyen tres funciones principales: proporcionar información, obtener información y dar instrucciones.
-          .row.justify-content-center(titulo="Regla de recontextualización")
+          .row.justify-content-center(titulo="Regla de recontextualización.")
             .col-lg-11
               p Es una regla de comunicación especializada que guía el proceso educativo.
-          .row.justify-content-center(titulo="Regla de evaluación")
+          .row.justify-content-center(titulo="Regla de evaluación.")
             .col-lg-11
               p Establece la relación entre el discurso institucional y el discurso regulativo, mediante la traducción y especialización del tiempo, el texto y el espacio.
       .col-lg-4.col-md-6.mb-3.mb-lg-0.d-none.d-lg-block(data-aos='fade-right')

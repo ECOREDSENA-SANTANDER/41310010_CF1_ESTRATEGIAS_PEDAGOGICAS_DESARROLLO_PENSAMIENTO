@@ -46,7 +46,7 @@
       .col-md-auto.col-2
         img(src='@/assets/curso/temas/t1/tit-terc1.svg', alt='')
       .col-md-auto.col-10
-        h3.mb-0 Aspectos relevantes de modelo pedagógico
+        h3.mb-0 Aspectos relevantes de un modelo pedagógico
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-4.p-lg-5
@@ -84,39 +84,39 @@
     p.mb-4 A lo largo de la historia, se han desarrollado diversos modelos pedagógicos, entre los cuales se destacan los siguientes:
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg-1" data-aos='fade-down')
-      .row(titulo="Modelo tradicional")
+      .row(titulo="Modelo tradicional.")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img1.png', alt='')
         .col-md-9
           p En este enfoque, el maestro es el principal transmisor de información y contenidos, y es quien planifica el trabajo en clase. Los estudiantes adoptan un rol pasivo en el proceso de formación.
           p Este modelo es considerado represivo, ya que se centra en la formación del carácter mediante una relación vertical entre maestro y alumno.
-      .row(titulo="Modelo romántico")
+      .row(titulo="Modelo romántico.")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img2.png', alt='')
         .col-md-9
           p Este modelo se enfoca en la dimensión interna del estudiante, quien se convierte en el eje central del proceso educativo. La clase se desarrolla en un ambiente flexible, con el objetivo de fomentar el desarrollo natural del estudiante. El maestro actúa como un facilitador que promueve la libre expresión del estudiante.
           p “En este modelo, el desarrollo natural del niño se convierte en la meta y a la vez, en el método de la educación. Se plantea que lo más importante para el desarrollo del niño es su interioridad, que se convierte en el eje central y el método de la educación” (Gómez y Polanía, 2008).
-      .row(titulo="Modelo conductista")
+      .row(titulo="Modelo conductista.")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img7.png', alt='')
         .col-md-9
           p Según Gómez y Polanía (2008), este modelo se caracteriza por la fijación y control de los objetivos de aprendizaje, y por la transmisión segmentada de saberes técnicos, con el propósito de modelar la conducta del estudiante. El proceso de aprendizaje se basa en el “adiestramiento experimental mediante refuerzos”. En este contexto, el maestro actúa como mediador y el estudiante como receptor de la programación, acumulando aprendizajes específicos.
-      .row(titulo="Modelo desarrollista")
+      .row(titulo="Modelo desarrollista.")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img3.png', alt='')
         .col-md-9
           p En este enfoque, el maestro crea un ambiente estimulante que facilita al estudiante el acceso progresivo y secuencial a estructuras cognitivas superiores, de acuerdo con sus necesidades. El maestro se desempeña como facilitador, mientras que el estudiante es responsable de construir sus propios contenidos de aprendizaje.
-      .row(titulo="Modelo socialista")
+      .row(titulo="Modelo socialista.")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img4.png', alt='')
         .col-md-9
           p En este modelo, el maestro educa con el objetivo de desarrollar plenamente al individuo en el contexto de una sociedad socialista. Según McLaren (1999), “la pedagogía social examina las instituciones educativas tanto en su medio histórico como en su medio social, considerando que forman parte del entramado social y político de la sociedad dominante.” Se enfatiza el trabajo en grupo y el método educativo se basa en la ciencia, con un desarrollo progresivo, secuencial y mediado por lo científico.
-      .row(titulo="Modelo constructivista")
+      .row(titulo="Modelo constructivista.")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img5.png', alt='')
         .col-md-9
           p Este enfoque postula que el conocimiento es construido por el propio estudiante. La escuela promueve una actividad mental constructiva, reconociendo al estudiante como un ser único inmerso en un contexto social específico que lo influye. En este modelo, los docentes deben considerar las siguientes preguntas: ¿qué tipo de sujeto se desea formar?, ¿qué tipo de escuela se necesita?, ¿para qué tipo de sociedad? La clase se organiza en torno a tres elementos fundamentales: una esencia, una tendencia y una estructura de funcionamiento.
-      .row(titulo="Modelo flexible")
+      .row(titulo="Modelo flexible.")
         .col-md-3.mb-4.mb-md-0
           img.w-75.m-auto(src='@/assets/curso/temas/t1/acor-img6.png', alt='')
         .col-md-9
@@ -130,7 +130,7 @@
               | Escuela nueva.
             li
               i.fas.fa-check-circle
-              | Post primaria.
+              | Postprimaria.
             li
               i.fas.fa-check-circle
               | Telesecundaria.
